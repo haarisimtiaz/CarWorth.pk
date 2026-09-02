@@ -1,0 +1,14 @@
+# Raw datasets - not needed to run the app, only the trained model is
+*.csv
+Car_Dataset.xlsx
+Pakistan_Cars_ExShowroom_V2.xlsx
+pak_wheel_FINAL_COMBINED.csv
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
